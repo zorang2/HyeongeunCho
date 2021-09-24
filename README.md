@@ -24,8 +24,8 @@
   
   ## ✏ Education
 
-  - 🏫 **Yeungnam Univ. Dept of Computer Science and Engineering (minor)----------------- Undergraduate Student** ----------- *(2021.09 ~ Now)*
-  - 🏫 **Yeungnam Univ. Dept of Automotive Mechanical Engineering (major)----------------- Undergraduate Student** ----------- *(2019.03 ~ Now)*
+  - 🏫 **[Yeungnam Univ. Dept of Computer Science and Engineering (minor)](http://cse.yu.ac.kr/)----------------- Undergraduate Student** ----------- *(2021.09 ~ Now)*
+  - 🏫 **[Yeungnam Univ. Dept of Automotive Mechanical Engineering (major)](http://automotive.yu.ac.kr/)----------------- Undergraduate Student** ----------- *(2019.03 ~ Now)*
 
   <!--
   - 🏫 **Dankook Univ. IDA_lab ----------------------------------- Assistant Researcher** -------------- *(2019.10 ~ 2020.08)*
