@@ -24,7 +24,7 @@
   
   ## ✏ Education
 
-  - 🏫 **Yeungnam Univ. Dept of Computer Science (minor)--------------------------------- Undergraduate Student** ----------- *(2021.09 ~ Now)*
+  - 🏫 **Yeungnam Univ. Dept of Computer Science and Engineering (minor)----------------- Undergraduate Student** ----------- *(2021.09 ~ Now)*
   - 🏫 **Yeungnam Univ. Dept of Automotive Mechanical Engineering (major)----------------- Undergraduate Student** ----------- *(2019.03 ~ Now)*
 
   <!--
