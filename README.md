@@ -24,7 +24,7 @@
   
   ## ✏ Education
 
-  - 🏫 **[Yeungnam Univ. Dept of Computer Science and Engineering](http://cse.yu.ac.kr/) (minor)----------------- Undergraduate Student** ----------- *(2021.09 ~ Now)*
+  - 🏫 **[Yeungnam Univ. Dept of Computer Science and Engineering](http://cse.yu.ac.kr/) (minor)----------------- Undergraduate Student** -------------- *(2021.09 ~ Now)*
   - 🏫 **[Yeungnam Univ. Dept of Automotive Mechanical Engineering](http://automotive.yu.ac.kr/) (major)----------------- Undergraduate Student** ----------- *(2019.03 ~ Now)*
 
   <!--
