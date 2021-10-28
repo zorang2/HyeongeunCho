@@ -19,6 +19,9 @@
   ## 💼 Work
   - 👉 **Hyundai MOBIS ------------------------------------------ Research Engineer** ------------------- *(2021.06 ~ _Now_)*
   -->
+  ## 💼 CV
+  - 👉 **[Notion View Link](https://cyber-podium-310.notion.site/9b6357c28567443d8d963c71a41a7555)**
+  
   ## 📌 Completion ( Software-Related )
  
   - 💻 **[Yeungnam Univ. Convergence S/W Course (YCSC, 前SCSC)](http://yucsc.yu.ac.kr/user/yusst/)--------------------***(2021.09 ~ Now)*
