@@ -21,7 +21,7 @@
   ## 💼 CV
   - 👉 **[CV, Notion Link](https://cyber-podium-310.notion.site/9b6357c28567443d8d963c71a41a7555)**
   
-    ## 💼 Work
+  ## 💼 Work
   - 👉 **SL Corporation -------------------- Deep Learning Engineer Intern** -------------------- *(2022.09 ~ _Now_)*
   - 👉 **SicPama -------------------- Deep Learning Engineer Intern** -------------------- *(2021.12 ~ 2022.02)*
   
