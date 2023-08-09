@@ -25,6 +25,19 @@
   - 👉 **SL Corporation -------------------- Deep Learning Engineer Intern** -------------------- *(2022.09 ~ _Now_)*
   - 👉 **SicPama -------------------- Deep Learning Engineer Intern** -------------------- *(2021.12 ~ 2022.02)*
   
+  ## 💖 Awards and Honors
+  - 👉 **자율주행 H-Mobility Class "우수학습자"** --------------------------- *(현대자동차 연구개발본부, 2023.06)*
+  - 👉 **대학연합 IP:PBL 경진대회 "장려상"** ---------------------------------- *(국제지식재산연구원, 2023.05)*
+  - 👉 **대구경북 대학연합 IP 경진대회 "장려상"** ------------------------------ *(경일대학교 LINC3.0, 2023.05)*
+  - 👉 **YCSC(YU-Convergence Software Center) "성적장학금"** -------------------- *(영남대학교, 2023.05)*
+  - 👉 **IoT 경진대회 "우수상"** --------------------------------------------- *(영남대학교, 2023.05)*
+
+2023.05 대학연합 IP:PBL 경진대회 / 장려상
+2022.11 대구경북 대학연합 IP(지식재산권) 경진대회 / 장려상
+2022.02 YCSC(YU-Convergence Software Center) / 성적장학금
+2021.01 기계IT대학 IoT 경진대회 / 우수상
+
+  
   ## 📌 Completion ( Software-Related )
  
   - 💻 **[Yeungnam Univ. Convergence S/W Course (YCSC, 前SCSC)](http://yucsc.yu.ac.kr/user/yusst/)--------------------***(2021.09 ~ Now)*
@@ -33,8 +46,8 @@
   
   ## ✏ Education
 
-  - 🏫 **[Yeungnam Univ. Dept of Computer Engineering](http://cse.yu.ac.kr/) (minor)----------------- Undergraduate Student** -------------- *(2021.09 ~ Now)*
-  - 🏫 **[Yeungnam Univ. Dept of Automotive Engineering](http://automotive.yu.ac.kr/) (major)----------------- Undergraduate Student** ----------- *(2019.03 ~ Now)*
+  - 🏫 **[Yeungnam Univ. Dept of Computer Engineering](http://cse.yu.ac.kr/) (minor)----------------- Undergraduate Student** -------------- *(2021.09 ~ 2023.08)*
+  - 🏫 **[Yeungnam Univ. Dept of Automotive Engineering](http://automotive.yu.ac.kr/) (major)----------------- Undergraduate Student** ----------- *(2019.03 ~ 2023.08)*
 
   <!--
   - 🏫 **Dankook Univ. IDA_lab ----------------------------------- Assistant Researcher** -------------- *(2019.10 ~ 2020.08)*
